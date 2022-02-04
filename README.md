@@ -1,16 +1,8 @@
 
-# Welcome to your CDK Python project!
+AWS CDK docs for all resources
+https://docs.aws.amazon.com/cdk/api/v2//docs/aws-cdk-lib.aws_ec2.Vpc.html
 
-You should explore the contents of this project. It demonstrates a CDK app with an instance of a stack (`cdk_workshop_stack`)
-which contains an Amazon SQS queue that is subscribed to an Amazon SNS topic.
-
-The `cdk.json` file tells the CDK Toolkit how to execute your app.
-
-This project is set up like a standard Python project.  The initialization process also creates
-a virtualenv within this project, stored under the .venv directory.  To create the virtualenv
-it assumes that there is a `python3` executable in your path with access to the `venv` package.
-If for any reason the automatic creation of the virtualenv fails, you can create the virtualenv
-manually once the init process completes.
+This poc isn't using cdk_workshop class definition, instead a short-circuit app.py.
 
 To manually create a virtualenv on MacOS and Linux:
 
